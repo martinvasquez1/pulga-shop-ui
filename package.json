@@ -2,9 +2,11 @@
   "name": "pulga-shop-ui",
   "version": "1.0.0",
   "description": "Tema y componentes para Pulga Shop utilizando MUI",
-  "main": "index.js",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "scripts": {
-    "test": "npm test"
+    "test": "npm test",
+    "build": "tsc"
   },
   "repository": {
     "type": "git",
@@ -15,5 +17,18 @@
   "bugs": {
     "url": "https://github.com/martinvasquez1/pulga-shop-ui/issues"
   },
-  "homepage": "https://github.com/martinvasquez1/pulga-shop-ui#readme"
+  "homepage": "https://github.com/martinvasquez1/pulga-shop-ui#readme",
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.1",
+    "@mui/icons-material": "^7.3.5",
+    "@mui/material": "^7.3.5",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.2",
+    "@types/react-dom": "^19.2.2",
+    "typescript": "^5.9.3"
+  }
 }
