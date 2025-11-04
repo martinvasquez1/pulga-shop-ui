@@ -1,6 +1,6 @@
 {
   "name": "pulga-shop-ui",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Tema y componentes para Pulga Shop utilizando MUI.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
