@@ -10,11 +10,13 @@ Para instalar el paquete:
 npm install pulga-shop-ui
 ```
 
-## Uso
+## Tema
 
 Para usar el tema:
 
 ```ts
+// main.tsx
+
 import { getPulgaTheme } from "pulga-shop-ui";
 
 createRoot(document.getElementById("root")!).render(
