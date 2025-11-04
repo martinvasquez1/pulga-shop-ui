@@ -1,0 +1,19 @@
+{
+  "name": "pulga-shop-ui",
+  "version": "1.0.0",
+  "description": "Tema y componentes para Pulga Shop utilizando MUI",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martinvasquez1/pulga-shop-ui.git"
+  },
+  "author": "martinvasquez1",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/martinvasquez1/pulga-shop-ui/issues"
+  },
+  "homepage": "https://github.com/martinvasquez1/pulga-shop-ui#readme"
+}
