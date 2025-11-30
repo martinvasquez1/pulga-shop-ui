@@ -30,6 +30,7 @@ const defaultTheme = createTheme();
 
 const customShadows: Shadows = [...defaultTheme.shadows];
 
+/*
 export const brand = {
   50: "#e4f7e8",
   100: "#beeac7",
@@ -42,6 +43,20 @@ export const brand = {
   700: "#009828",
   800: "#00871b",
   900: "#006703",
+};
+*/
+
+export const brand = {
+  50: "hsl(0, 100%, 97%)",
+  100: "hsl(0, 92%, 90%)",
+  200: "hsl(0, 94%, 80%)",
+  300: "hsl(0, 90%, 65%)",
+  400: "hsl(0, 90%, 40%)",
+  500: "hsl(0, 90%, 30%)",
+  600: "hsl(0, 91%, 25%)",
+  700: "hsl(0, 94%, 18%)",
+  800: "hsl(0, 95%, 12%)",
+  900: "hsl(0, 93%, 6%)",
 };
 
 export const gray = {
