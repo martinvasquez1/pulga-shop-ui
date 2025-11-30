@@ -31,16 +31,16 @@ const defaultTheme = createTheme();
 const customShadows: Shadows = [...defaultTheme.shadows];
 
 export const brand = {
-  50: "#e4f8ed",
-  100: "#bdedd2",
-  200: "#8fe1b6",
-  300: "#57d698",
-  400: "#00cc81",
-  500: "#00c26a",
-  600: "#00b25f",
-  700: "#009f52",
-  800: "#008e45",
-  900: "#006d30",
+  50: "#e4f7e8",
+  100: "#beeac7",
+  200: "#91dda2",
+  300: "#5cd07c",
+  400: "#22c55e",
+  500: "#00ba3e",
+  600: "#00aa35",
+  700: "#009828",
+  800: "#00871b",
+  900: "#006703",
 };
 
 export const gray = {
