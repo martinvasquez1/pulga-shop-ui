@@ -45,3 +45,10 @@ El proyecto está abierto a contribuciones. Si se repiten componentes a través 
 ```bash
 npm run build
 ```
+
+## Publish
+
+```bash
+npm login
+npm publish --access public 
+```
